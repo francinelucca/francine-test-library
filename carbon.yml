@@ -12,4 +12,4 @@ library:
         path: '/page-2.mdx'
         hidden: true
       - title: Test Library Page 3
-        path: 'page-3'
+        path: '/page-3.mdx'
